@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta closet = "utf-8"/>
+<title> PHP!! </title>
+</head>
+<body>
+<?php
+echo "Hello World!";
+?>
+</body>
+</html>
